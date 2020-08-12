@@ -14,17 +14,17 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Tinashe's Cloud Journey
 
-[✍️ Introduce yourself]
+Hi, I am a Cloud Native Platform Engineer looking into bettering my cloud skills.
 
-[✍️ Tell us why you started this challenge]
+I started this journey to upskill, connect and share cloud technology knowledge
 
-[✍️ Tell us where you want to be at the end of the challenge]
+I would love to complete all AWS associate level certifications and some GCP professional certifications.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
-
+- [Twitter](https://twitter.com/cloud_grimm)
+- [LinkedIn](https://www.linkedin.com/in/tinashe-wilbrod-chipomho-5427677)
+- [Website](https://www.tinashechipomho.com)
 ## Stepping out the door
 
 - [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
